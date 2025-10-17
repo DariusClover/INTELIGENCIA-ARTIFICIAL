@@ -36,10 +36,6 @@ También puedes abrir el notebook directamente en Google Colab usando el badge a
 - **Dario Restrepo Landazury**
 - **Sebastian Rojas Cabrera**
 
-## 📝 Licencia
 
-Este proyecto está bajo la licencia especificada en el archivo [LICENSE](LICENSE).
-
----
 
 ⭐ Si este proyecto te fue útil, no olvides darle una estrella en GitHub!
