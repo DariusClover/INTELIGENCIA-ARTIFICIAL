@@ -1,41 +1,39 @@
-# Taller: Análisis de Datos con Pandas, NumPy y Matplotlib
+# Talleres de Análisis de Datos e IA
 
-## 📊 Descripción del Proyecto
+Talleres prácticos de estadística y análisis de datos usando Python (NumPy, Pandas, Matplotlib, SciPy).
 
-Este repositorio contiene un taller práctico de análisis de datos utilizando las principales librerías de Python para ciencia de datos: **Pandas**, **NumPy** y **Matplotlib**. El taller está diseñado para aprender y aplicar conceptos fundamentales de análisis estadístico y visualización de datos.
+## Contenido
 
+### **Taller 1: Estadística Descriptiva**
+- Operaciones con NumPy y Pandas
+- Medidas de tendencia central (media, mediana, moda)
+- Medidas de dispersión (varianza, desviación estándar)
+- Visualización de datos con Matplotlib
+- Filtrado y agrupación de datos
 
-## 🛠️ Tecnologías Utilizadas
+### **Taller 2: Estadística Inferencial**
+- Población vs Muestra (intervalos de confianza)
+- Distribución Normal (regla 68-95-99.7)
+- Teorema del Límite Central (distribución de medias)
 
-
-- **NumPy**: Computación numérica y operaciones con arrays
-- **Pandas**: Manipulación y análisis de datos
-- **Matplotlib**: Visualización de datos
-- **SciPy**: Funciones estadísticas adicionales
-
-## 📦 Instalación
-
-Para instalar las dependencias necesarias, ejecuta:
+## Instalación
 
 ```bash
 pip install numpy pandas matplotlib scipy openpyxl
 ```
 
-O si usas el notebook directamente, ejecuta la celda de instalación incluida en el archivo.
+## Uso
 
-## 🚀 Uso
+**Taller 1:** `Taller_Análisis_de_Datos_con_Pandas,_NumPy_y_Matplotlib.ipynb`  
+**Taller 2:** `Taller2/Taller2.ipynb`
 
-1. Clona este repositorio
-2. Abre el notebook `Taller_Análisis_de_Datos_con_Pandas,_NumPy_y_Matplotlib.ipynb` en Jupyter Notebook, JupyterLab o VS Code
-3. Ejecuta las celdas secuencialmente para ver los resultados de cada ejercicio
+Ejecuta las celdas secuencialmente en Jupyter o VS Code.
 
-También puedes abrir el notebook directamente en Google Colab usando el badge al inicio del notebook.
+## Integrantes
 
-## 👥 Integrantes del Equipo
+- Dario Restrepo Landazury
+- Sebastian Rojas Cabrera
 
-- **Dario Restrepo Landazury**
-- **Sebastian Rojas Cabrera**
-
-
+---
 
 ⭐ Si este proyecto te fue útil, no olvides darle una estrella en GitHub!
