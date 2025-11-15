@@ -5,16 +5,12 @@ Talleres prácticos de estadística y análisis de datos usando Python (NumPy, P
 ## Contenido
 
 ### **Taller 1: Estadística Descriptiva**
-- Operaciones con NumPy y Pandas
-- Medidas de tendencia central (media, mediana, moda)
-- Medidas de dispersión (varianza, desviación estándar)
-- Visualización de datos con Matplotlib
-- Filtrado y agrupación de datos
+
 
 ### **Taller 2: Estadística Inferencial**
-- Población vs Muestra (intervalos de confianza)
-- Distribución Normal (regla 68-95-99.7)
-- Teorema del Límite Central (distribución de medias)
+
+
+## **Taller 3: Estadistica DEscritiva**
 
 ## Instalación
 
@@ -32,7 +28,7 @@ Ejecuta las celdas secuencialmente en Jupyter o VS Code.
 ## Integrantes
 
 - Dario Restrepo Landazury
-- Sebastian Rojas Cabrera
+
 
 ---
 
